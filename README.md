@@ -1,6 +1,5 @@
 # Challenger_OracleONE_AluraStore
 
-%%writefile README.md
 # Análisis de Rendimiento de Tiendas
 
 ## Propósito del Análisis
